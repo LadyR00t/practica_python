@@ -1,0 +1,9 @@
+Recordar:
+- Llamar a soporte TI por el problema del VPN.
+- Revisar logs del servidor web.
+- Comprobar copias de seguridad del viernes.
+- Preparar presentación para la reunión del lunes.
+- Actualizar documentación del proyecto.
+- Revisar presupuesto del trimestre.
+- Contactar con el proveedor sobre la renovación del contrato.
+

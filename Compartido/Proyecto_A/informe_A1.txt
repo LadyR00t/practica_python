@@ -1,0 +1,8 @@
+Informe de resultados del Proyecto A
+
+- Tarea 1 completada correctamente.
+- Tarea 2 pendiente de revisión.
+- Tarea 3 en curso.
+
+No se han detectado incidencias de seguridad relevantes.
+

@@ -1,0 +1,38 @@
+Documentación Técnica - Proyecto B
+
+Índice:
+1. Introducción
+2. Arquitectura del Sistema
+3. Especificaciones Técnicas
+4. Manual de Instalación
+5. Guía de Uso
+6. Troubleshooting
+
+Introducción:
+Este documento describe la arquitectura y funcionamiento del sistema desarrollado para el Proyecto B. El sistema está diseñado para gestionar procesos de negocio críticos y requiere una configuración específica del entorno.
+
+Arquitectura del Sistema:
+El sistema está compuesto por tres capas principales:
+- Capa de presentación (Frontend)
+- Capa de lógica de negocio (Backend)
+- Capa de datos (Database)
+
+Especificaciones Técnicas:
+- Lenguaje: Python 3.9+
+- Framework: Django 4.2
+- Base de datos: PostgreSQL 14
+- Servidor web: Nginx + Gunicorn
+
+Manual de Instalación:
+1. Instalar dependencias del sistema
+2. Configurar base de datos
+3. Ejecutar migraciones
+4. Configurar variables de entorno
+5. Iniciar servicios
+
+Guía de Uso:
+El sistema permite gestionar usuarios, permisos y procesos de negocio a través de una interfaz web intuitiva.
+
+Troubleshooting:
+En caso de problemas, consultar los logs del sistema ubicados en /var/log/proyecto_b/
+

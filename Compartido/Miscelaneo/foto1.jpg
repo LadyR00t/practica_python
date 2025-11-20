@@ -1,0 +1,4 @@
+Este es un archivo de imagen simulado. En un entorno real, sería un archivo binario de imagen JPEG.
+Para propósitos de esta práctica, este archivo de texto simula una imagen.
+El detector de ransomware ignorará archivos .jpg según la configuración del script.
+

@@ -1,0 +1,26 @@
+Guía de instalación:
+
+1. Descargar el instalador desde la intranet.
+2. Ejecutar como administrador.
+3. Seguir los pasos del asistente.
+
+Requisitos del sistema:
+- Windows 10 o superior
+- 4 GB de RAM mínimo
+- 500 MB de espacio en disco
+- Conexión a internet para la activación
+
+Pasos detallados:
+1. Localizar el archivo instalador en la carpeta de descargas
+2. Hacer clic derecho y seleccionar "Ejecutar como administrador"
+3. Aceptar los permisos de administrador
+4. Seguir las instrucciones del asistente de instalación
+5. Reiniciar el equipo si se solicita
+6. Verificar la instalación ejecutando la aplicación
+
+Solución de problemas:
+Si encuentra errores durante la instalación, verifique:
+- Que tiene permisos de administrador
+- Que hay suficiente espacio en disco
+- Que el antivirus no está bloqueando la instalación
+
